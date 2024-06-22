@@ -29,5 +29,5 @@ Explore the field of NLP with these introductory and intermediate projects.
 ### 4. Time Series
 Learn how to handle and predict time series data.
 - **Intro to Time Series**: Basic concepts and techniques for handling time series data.
-- **Predicting Time Series**: Build models to forecast future values in a time series.
+- **Predicting Time Series**: Build neural network models to forecast future values in a time series.
 - **Daily Temperatures (Melbourne)**: Predict daily temperatures using historical data.
